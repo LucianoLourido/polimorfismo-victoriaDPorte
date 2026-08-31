@@ -14,7 +14,7 @@ Respecto a los nombres de objetos y nombres de mensajes a utilizar en el modelad
 
 ## Enunciado
 
-Necesitamos un software para gestionar las necesidades del deporte nacional de cara a Los Ageles 2028.
+Necesitamos un software para gestionar las necesidades del deporte nacional de cara a Los Ángeles 2028.
 Para ello tenemos a una tal Victoria D. Porte, que es nuestra carta secreta.
 
 
